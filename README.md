@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # SublimeText3Settings
-=======
-# Sublime3SettingsHome
->>>>>>> 95023b16bdf2777c249856ec11e46320f7dfa9dc
+
 My Sublime Text 3 settings for easy sharing between machines
 
 To Use:
