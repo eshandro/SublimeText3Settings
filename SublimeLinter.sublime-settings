@@ -1,0 +1,15 @@
+// SublimeLinter Settings - User
+{
+	"linters": {
+		"jshint": {
+			"disable": true
+		}
+	},
+	"lint_mode": "manual",
+
+	"paths": {
+		"linux": [],
+		"osx": [ "/Users/eriks/.nvm/versions/node/v8.12.0/bin/node" ],
+		"windows": []
+	}
+}

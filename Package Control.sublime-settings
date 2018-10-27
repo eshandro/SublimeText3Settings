@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScript Snippets",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Smarty",
+		"Stylus",
+		"sublime-html2jade",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-jshint",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - SoDaReloaded"
+	],
+	"repositories":
+	[
+		"https://github.com/anderson916/sublime-html2jade"
+	]
+}
